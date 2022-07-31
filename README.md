@@ -1,3 +1,6 @@
+# Hi, I'm [Ahmed Bawazir!](https://developing-gamer.github.io/#/) <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px>
+
+
 # 💫 About Me:
 🔭 I’m currently working on Allergycom App (Flutetr | Spring boot Rest Apt ) <br>👯 I’m looking to collaborate on Any non trivial Open Source Projects<br>🌱 I’m currently learning Spring boot Microservices | Spring Cloud | Spring Mvc <br>💬 Ask me about Flutter | Spring Boot | Docker | Backend Java Developments<br>⚡ Fun fact :  My favourite song is Grateful by Neffex
 
