@@ -1,7 +1,5 @@
-# Hi, I'm [Ahmed Bawazir!](https://developing-gamer.github.io/#/)
-
 # 💫 About Me:
-I'm Ahmed Bawazir, a student, currently studying B.E. Computer Science and Engineering 📚
+As a computer science and engineering student in my final year, I have developed a diverse skill set through various projects and experiences. I am well-versed in a range of technologies including Spring Boot, PostgreSQL, MongoDB, and Node.js for backend development, as well as Flutter for frontend development. My passion for technology and problem-solving drives me to constantly learn and improve, making me a valuable asset to any team
 
 
 ## 🌐 Socials:
