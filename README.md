@@ -1,6 +1,12 @@
 # 💫 About Me:
 As a computer science and engineering student in my final year, I have developed a diverse skill set through various projects and experiences. I am well-versed in a range of technologies including Spring Boot, PostgreSQL, MongoDB, and Node.js for backend development, as well as Flutter for frontend development. My passion for technology and problem-solving drives me to constantly learn and improve, making me a valuable asset to any team
 
+## Programming Languages Known:
+- Java
+- Python
+- Sql
+- Dart
+- Swift
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmed-bawazir/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AhmedS209) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@a_Dev23) 
