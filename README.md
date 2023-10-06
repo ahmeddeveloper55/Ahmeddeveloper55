@@ -6,7 +6,7 @@ As a computer science and engineering student in my final year, I have developed
 - Python
 - Sql
 - Dart
-- Swift
+- JavaScript
 
 ## 🌐 Socials: 
  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@a_Dev23) <a href="https://linkedin.com/in/ahmed-bawazir/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/ahmed-bawazir/" height="30" width="40" /></a>
@@ -18,14 +18,8 @@ As a computer science and engineering student in my final year, I have developed
 
 # 💻 Tech Stack:
 - Database : PostgresSql,MongoDb,MySql 
-- Rest Api : Spring boot
+- Rest Api : Spring boot,Node.js
 - Front end : Flutter & Dart
 
-# 💻 Learning :
-- Swift
-- UIkit
-- SwiftUi
-- AR/VR
-- Golang,djongo
 
 
