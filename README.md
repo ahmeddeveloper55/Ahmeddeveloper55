@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a computer science and engineering student in my final year, I have developed a diverse skill set through various projects and experiences. I am well-versed in a range of technologies including Spring Boot, PostgreSQL, MongoDB, and Node.js for backend development, as well as Flutter for frontend development. My passion for technology and problem-solving drives me to constantly learn and improve, making me a valuable asset to any team
+Versatile Software Engineer with a Bachelor's degree in Computer Science and a proven track record in developing efficient applications and improving app performance. Proficient in Dart, JavaScript, Java, Python, with hands-on experience in Flutter, Spring Boot, Node.Js, and cloud technologies. Demonstrated ability to work effectively in team environments and deliver projects on time.
 
 ## Programming Languages Known:
 - Java
